@@ -6,4 +6,4 @@ Default username and password are root/Docker!
 
 # Instructions
 
-docker run -d -p 10000:10000 -p 53:53 --name=bind hrwebasst/webmin
+docker run -d -p 10000:10000 -p 53:53 -p 53:53/udp --name=bind hrwebasst/webmin
