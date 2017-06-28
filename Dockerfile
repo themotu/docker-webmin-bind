@@ -1,4 +1,4 @@
-FROM quantumobject/docker-baseimage:15.10
+FROM quantumobject/docker-baseimage:16.04
 
 MAINTAINER Richard Silver "rsilver@uoregon.edu"
 
